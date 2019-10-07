@@ -1,0 +1,15 @@
+.element {
+	border: 1px solid red;
+	width: 200px;
+	height: 200px;
+	font-size: 45px;
+	text-align: center;
+}
+
+.first {
+	width: 50%;
+}
+
+.second {
+	width: 752px;
+}
