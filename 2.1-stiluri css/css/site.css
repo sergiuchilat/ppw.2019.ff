@@ -1,0 +1,16 @@
+* {
+	border: 2px solid cyan;
+}
+
+div {
+	background: red; 
+	color: yellow;
+}
+
+.grupa-is-11-r{
+	background: orange;
+}
+
+#student-deosebit {
+	background: violet;
+}
