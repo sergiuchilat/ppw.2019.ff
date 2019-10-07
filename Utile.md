@@ -18,3 +18,6 @@ Online
 Linkuri  utile:
 https://www.lipsum.com/feed/html
 
+Validarea codului:
+* https://validator.w3.org
+
