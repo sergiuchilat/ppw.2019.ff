@@ -1,0 +1,37 @@
+body {
+	background: url('../img/cosmos.jpg');
+	background-attachment: fixed;
+}
+
+.element {
+	border: 1px solid red;
+	width: 600px;
+	height: 600px;
+	font-size: 45px;
+	text-align: center;
+}
+
+.repeat {
+	background: url('../img/bg.jpg');
+}
+
+
+.repeat-x {
+	background: url('../img/bg.jpg');
+	background-repeat: repeat-x;
+}
+
+.repeat-y {
+	background: url('../img/bg.jpg');
+	background-repeat: repeat-y;
+}
+
+.no-repeat{
+	background: url('../img/bg.jpg');
+	background-repeat: no-repeat;
+}
+
+.cover{
+	background: url('../img/bg.jpg');
+	background-size: cover;
+}
