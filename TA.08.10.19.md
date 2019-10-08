@@ -6,3 +6,4 @@ HTML:
 CSS:
 * margin si padding
 * pozitionarea elementelor
+* setarea culorilor
