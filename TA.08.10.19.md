@@ -9,3 +9,8 @@ CSS:
 * pozitionarea elementelor si z-index
 * setarea culorilor
 * media queries
+
+
+Bootstrap
+* Grid System
+* Componente
