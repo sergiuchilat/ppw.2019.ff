@@ -5,5 +5,5 @@ HTML:
 
 CSS:
 * margin si padding
-* pozitionarea elementelor
+* pozitionarea elementelor si z-index
 * setarea culorilor
