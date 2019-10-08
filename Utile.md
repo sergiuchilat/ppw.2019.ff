@@ -16,7 +16,9 @@ Online
 * https://jsfiddle.net/
 
 Linkuri  utile:
-https://www.lipsum.com/feed/html
+
+Text aleatoriu https://www.lipsum.com/feed/html
+Foto galerie http://fancybox.net/
 
 Validarea codului:
 * https://validator.w3.org
