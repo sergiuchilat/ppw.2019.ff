@@ -1,0 +1,12 @@
+ul.video li {
+	display: inline-block;
+	border: 1px solid gray;
+	width: 350px;
+	height: 280px;
+	vertical-align: top;
+	border-radius: 10px;
+}
+
+ul.video li img {
+	width: 100%;
+}
