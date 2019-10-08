@@ -1,0 +1,50 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+#fixed-nav {
+	position: fixed;
+	width: 100%;
+	top: 0;
+}
+header, aside, nav, main, footer{
+	border: 1px solid red;
+}
+
+header {
+	margin-top: 35px;
+	width: 100%;
+	height: 100px;
+	background: orange;
+	text-align: center;
+	font-size: 60px;
+	color: white;
+}
+
+main, aside {
+	display: inline-block;
+	vertical-align: top;
+}
+
+
+nav {
+	background: green;
+}
+
+main {
+	background: yellow;
+	width: 55%;
+}
+
+aside {
+	background: blue;
+	width: 20%;
+}
+
+
+
+
+footer {
+	background: pink;
+}
