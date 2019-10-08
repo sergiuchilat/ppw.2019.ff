@@ -1,0 +1,37 @@
+.element {
+	width: 100px;
+	height: 100px;
+	border: 1px solid red;
+	background: yellow;
+	font-size: 46px;
+	color: #0000FF;
+	text-align: center;
+}
+
+.relative {
+	position: relative;
+	background: cyan;
+	left: 20px;
+	top: -20px;
+}
+
+.absolute {
+	position: absolute;
+	background: green;
+	left: 50px;
+	top: 50px;
+}
+
+.fixed {
+	position: fixed;
+	background: red;
+	left: 50px;
+	top: 50px;
+}
+
+#fixed-bottom-right {
+	position: fixed;
+	background: violet;
+	right: 10px;
+	bottom: 20px;
+}
