@@ -11,6 +11,7 @@ Offline
 * Sublime Text https://www.sublimetext.com/
 * Brackets http://brackets.io/
 * Atom https://ide.atom.io/
+* Visual Studio Code https://code.visualstudio.com/
 Online
 * http://jsbin.com/
 * https://jsfiddle.net/
