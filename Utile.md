@@ -20,7 +20,12 @@ Linkuri  utile:
 
 Text aleatoriu https://www.lipsum.com/feed/html
 Foto galerie http://fancybox.net/
+Tutorial Bootstrap https://youtu.be/2JMMnNOhDoc
 
 Validarea codului:
 * https://validator.w3.org
+
+Framework-uri CSS:
+* Bootstrap https://getbootstrap.com
+* Material design https://material.io
 
